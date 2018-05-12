@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25575
     wikipedia: http://en.wikipedia.org/wiki/Dhan_Gopal_Mukerji
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22848#SandhyaSongs-of-Twilight
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
 identifiers:
